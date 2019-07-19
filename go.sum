@@ -1,0 +1,10 @@
+github.com/kelseyhightower/envconfig v1.4.0 h1:Im6hONhd3pLkfDFsbRgu68RDNkGF1r3dvMUtDTo2cv8=
+github.com/kelseyhightower/envconfig v1.4.0/go.mod h1:cccZRl6mQpaq41TPp5QxidR+Sa3axMbJDNb//FQX6Gg=
+github.com/kylelemons/godebug v0.0.0-20170820004349-d65d576e9348 h1:MtvEpTB6LX3vkb4ax0b5D2DHbNAUsen0Gx5wZoq3lV4=
+github.com/kylelemons/godebug v0.0.0-20170820004349-d65d576e9348/go.mod h1:B69LEHPfb2qLo0BaaOLcbitczOKLWTsrBG9LczfCD4k=
+github.com/mackerelio/mackerel-client-go v0.5.0 h1:j+H/RKELHLAHbXOtc+R04v9DYSFjzPJs+7RCO/E7G1g=
+github.com/mackerelio/mackerel-client-go v0.5.0/go.mod h1:/FVnUK7nsg/MEBpIVOCZLYzdIwY5mg/SyAlXDnxVcAI=
+github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
+github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/tenntenn/natureremo v0.0.1 h1:Ncv4T12rmSqUIQ2MddZbWGwbbMDea1UURU1CjSqH/wM=
+github.com/tenntenn/natureremo v0.0.1/go.mod h1:yjrSzQ3xhCaU29aHk5TqouGL6PCjUB7my5/f1J8qVwM=
