@@ -31,7 +31,8 @@ func RemoToMackerel(ctx context.Context, m interface{}) error {
 	}
 
 	mkr := mackerel.NewClient(c.MackerelAPIKey)
-	err = mkr.PostServiceMetricValues(c.ServiceName, devices(ds).ToMetricValues())
+	metrics := devices(ds).ToMetricValues()
+	err = mkr.PostServiceMetricValues(c.ServiceName, metrics)
 	if err != nil {
 		return err
 	}
