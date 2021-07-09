@@ -35,6 +35,6 @@ Posting sensor values from [Nature Remo](https://nature.global/) to [Mackerel](h
 
 ### Deploy a function subscribing the topic
 
-`$ gcloud functions deploy RemoToMackerel --runtime go111 --trigger-topic=remo-to-mackerel --env-vars-file envs.yaml`
+`$ gcloud functions deploy RemoToMackerel --runtime go113 --trigger-topic=remo-to-mackerel --env-vars-file envs.yaml`
 
 (* To access external network requires [Billing Account](https://cloud.google.com/functions/pricing?hl=ja]) configuration in your project.)
